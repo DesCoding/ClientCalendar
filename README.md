@@ -1,9 +1,6 @@
 # Daily Planner
 
-This calendar features HTML and CSS powered by jQuery and uses the Moment.js library to work with date and time.  Save different tasks and events by the hour of the day!
-Click on colored textarea corresponding to desired time.  Type whichever event or task you would like to acomplish.  Simply click on the button to the right of text box to save!
-
-Note: Different colors indicate past present and future
+This calendar features HTML and CSS powered by jQuery and uses the Moment.js library to work with date and time.  Users can save events for each hour of the day; to do this, click on colored textarea corresponding to desired time.  Type whichever event or task you would like to schedule, then click the save button to the right of text box.  
 
 ## Your Task
 
