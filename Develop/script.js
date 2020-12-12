@@ -7,8 +7,8 @@ $(document).ready(function () {
    
     //Array of hours to be displayed for each day
     var plannerHours = [
-        hourTime = ["9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM", "6PM", "7PM", "8PM", "9PM"],
-        hourData = [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+        hourTime = ["6AM", "7AM", "8AM", "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM", "6PM", "7PM", "8PM", "9PM"],
+        hourData = [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
     ];
    
         //array for text in each hour of the calendar
