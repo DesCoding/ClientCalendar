@@ -4,7 +4,7 @@ This calendar features HTML and CSS powered by jQuery and uses the Moment.js lib
 
 ## Deployed
 
-Repo Link: https://descoding.github.io/ClientCalendar/
+Repo Link: https://github.com/DesCoding/ClientCalendar.git
 
 Site Link: https://descoding.github.io/ClientCalendar/index.html
 
