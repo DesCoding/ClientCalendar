@@ -1,8 +1,8 @@
-## Client Calendar
+# Client Calendar
 
 This calendar features HTML and CSS powered by jQuery and uses the Moment.js library to work with date and time.  Users can save events for each hour of the day; to do this, click on colored textarea corresponding to desired time.  Type whichever event or task you would like to schedule, then click the save button to the right of text box.  
 
-## Technologies Used
+# Technologies Used
 
 HTML
 CSS
@@ -12,20 +12,20 @@ JQuery
 Moment.js
 Font Awesome
 
-## Deployed
+# Deployed
 
 Repo Link: https://github.com/DesCoding/ClientCalendar.git
 
 Site Link: https://descoding.github.io/ClientCalendar/
 
-## Demo
+# Demo
 
 ![demo](Assets/GifCalendar.gif)
   
 ![demo](Assets/Demo.png)
 
 
-## MIT License
+# MIT License
 
 Copyright (c) 2021 DesCoding
 
