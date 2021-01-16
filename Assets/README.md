@@ -20,14 +20,9 @@ Site Link: https://descoding.github.io/ClientCalendar/
 
 ## Demo
 
+![demo](Assets/GifCalendar.gif)
+  
 ![demo](Assets/Demo.png)
-
-
-<img src="./Assets/GifCalendar.gif"
-     alt="Log-in Page"
-     width='100%'
-     height='auto'/>
-
 
 
 ## MIT License
