@@ -12,14 +12,14 @@ JQuery
 Moment.js
 Font Awesome
 
-## Deployed
+# Deployed
 
 Repo Link: https://github.com/DesCoding/ClientCalendar.git
 
 Site Link: https://descoding.github.io/ClientCalendar/
 
 
-## Demo
+# Demo
 
 ![demo](Assets/GifCalendar.gif)
 
