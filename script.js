@@ -134,7 +134,6 @@ $(document).ready(function () {
         saveTextAreaOnClick();
         clearAllOnClick ();
         
-        
        });
 
    
