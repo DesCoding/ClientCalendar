@@ -4,13 +4,13 @@ This calendar features HTML and CSS powered by jQuery and uses the Moment.js lib
 
 # Technologies Used
 
-HTML
-CSS
-JavaScript
-JSON Local Storage
-JQuery
-Moment.js
-Font Awesome
+* HTML
+* CSS
+* JavaScript
+* JSON Local Storage
+* JQuery
+* Moment.js
+* Font Awesome
 
 # Deployed
 
